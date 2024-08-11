@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgba(24, 24, 39, 0.739);
+}
+
+li{
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    list-style-type: none;
+}
+
+.main{
+    padding: 2rem;
+    background-color: #a2b979;
+        width: 20rem;
+        border-radius: 0.5rem;
+        padding: 1rem;
+        margin-top: 10%;
+        margin-left: 33%;
+}
